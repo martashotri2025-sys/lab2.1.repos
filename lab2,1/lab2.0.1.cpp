@@ -7,7 +7,7 @@ using  namespace std;
 
 int main()
 {
-	double x;
+	//double x;
 	double y;
 	double z1;
 	//double z2;
