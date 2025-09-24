@@ -18,7 +18,7 @@ int main()
 	cin >> y;
 
 	z1 = pow(cos(x), 4) + pow(sin(y), 2) + 0.25 * pow(sin(2 * x), 2) - 1;
-	z2 = sin(y + x) * sin(y - x);
+	//z2 = sin(y + x) * sin(y - x);
 
 	cout << "z1= " << z1 << endl;
     cout << "z2= " << z2 << endl;
